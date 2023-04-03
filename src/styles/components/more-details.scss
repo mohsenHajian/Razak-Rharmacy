@@ -1,0 +1,21 @@
+.more-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 100%;
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+}
+.more-details-border {
+    cursor: pointer;
+    border: 1px solid white;
+    position: absolute;
+    top: -7px;
+    left: -7px;
+    right: -7px;
+    bottom: -7px;
+    border-radius: 100%;
+}
